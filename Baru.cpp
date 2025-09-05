@@ -1,5 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    printf("Hello  World");
+    printf("Nama: M Farel Ghibrand); \nBahasa Pemograman Favorit: C++");
+
+
 }
